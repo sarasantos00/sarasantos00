@@ -1,3 +1,4 @@
 ## boas vindas ao meu perfil👋
 
-Meu nome é sara, sou aluna do alura.
+Meu nome é sara.
+Sou estudante do alura.
